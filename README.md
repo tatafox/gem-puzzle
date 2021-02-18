@@ -1,2 +1,3 @@
-# tatafox-JS2020Q3
-Private repository for @tatafox
+# cat gem puzzle game
+
+https://tatafox.github.io/gem-puzzle/
